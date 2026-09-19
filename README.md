@@ -259,4 +259,4 @@ This repository serves as the official landing page for PicsArt. The software is
 **Get the most recent version of PicsArt today!**
 
 ---
-**Last updated:** 2026-09-18 22:16:26 UTC
+**Last updated:** 2026-09-19 00:57:10 UTC
